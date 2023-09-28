@@ -1,5 +1,8 @@
-### Hi there 👋
+### Olá , eu sou a Juliana Matos ! 👋
 
+Bem vindos(as) ao meu cantinho de projetos.
+Sou Nutricionista de formação, mas encantada pelo mundo da programação.😊
+Sou estudante desenvolvedora Backend pela @cubosacademy. 
 <!--
 **julirmatos/julirmatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
