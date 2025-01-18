@@ -14,7 +14,7 @@ Bem vindos(as) ao meu cantinho de projetos.
 
 Nutricionista apaixonada por Tecnologia.😊
 
-Formada como dev Backend pela @cubosacademy. (dez/2023)
+Formada como dev Backend pela @cubosacademy. 
 
 
 <img align="right" alt="Juliana Matos" height="190" src="https://github.com/julirmatos/julirmatos/assets/106282913/a14a403d-c3f4-4185-b082-f20c8eb312b0">
