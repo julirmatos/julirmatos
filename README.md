@@ -26,10 +26,10 @@ Apaixonada por Tecnologia.😊
 
 ## 👍 Follow Me
 [![Instagram](https://img.shields.io/badge/Instagram-62017a?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juliana.rmatos)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/juliana-matos-8882aa83)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juli-rmatos/)
 
 
-## 📈 Estatus 
+## 📈 Status 
 
 
 ![Juliana Matos 'GitHub stats](https://github-readme-stats.vercel.app/api?username=julirmatos&show_icons=true&theme=radical)
