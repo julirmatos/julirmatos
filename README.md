@@ -12,9 +12,8 @@
          
 Bem vindos(as) ao meu cantinho de projetos. 
 
-Nutricionista apaixonada por Tecnologia.😊
-
-
+Transição de carreira . Nutri para Dev. 
+Apaixonada por Tecnologia.😊
 
 
 
