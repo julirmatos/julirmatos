@@ -22,7 +22,7 @@ Apaixonada por Tecnologia.😊
 
 ## 🛠 Skills
 
-[![Tecnologias e Ferramentas utilizadas:](https://skillicons.dev/icons?i=js,nodejs,npm,typescript,php,postgres,vscode,github,git,expressjs)](https://skillicons.dev)
+[![Tecnologias e Ferramentas utilizadas:](https://skillicons.dev/icons?i=vscode,js,nodejs,npm,typescript,php,expressjs,react,figma,mysql,jest,postgres,github,git)](https://skillicons.dev)
 
 ## 👍 Follow Me
 [![Instagram](https://img.shields.io/badge/Instagram-62017a?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juliana.rmatos)
