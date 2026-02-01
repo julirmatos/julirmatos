@@ -12,7 +12,7 @@
          
 Bem vindos(as) ao meu cantinho de projetos. 
 
-Transição de carreira . Nutri para Dev. 
+Desenvolvedora Full Stack |PHP, JavaScript, TypeScript | , React, Node.js, APIs REST,SQL
 Apaixonada por Tecnologia.😊
 
 
