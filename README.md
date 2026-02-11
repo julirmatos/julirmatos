@@ -12,7 +12,7 @@
          
 Bem vindos(as) ao meu cantinho de projetos. 
 
-Desenvolvedora Full Stack |PHP, JavaScript, TypeScript | , React, Node.js, APIs REST,SQL
+Desenvolvedora Full Stack | PHP • JavaScript • TypeScript • React • Node.js | APIs REST • MySQL | Projetos Reais no GitHub
 Apaixonada por Tecnologia.😊
 
 
